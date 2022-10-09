@@ -6,3 +6,4 @@ Thanks for [form](https://foambubble.github.io/foam/) as the tool to build this 
 - [[learning]]
 - [[hands-on_tools]]
 
+![20221009](assets/myknowledge.png)

@@ -114,3 +114,16 @@ File: /public/index.html
 </html>
 ```
 
+## Deploy React to Azure Web App
+
+1. Open your Project in VS code
+2. Go to Extensions. Search for Azure App Service and click installed
+3. Go to Azure App Service. Sign in to your Azure Account
+4. Create one App Service in Azure portal beforehand
+5. Click on Deploy to Web App
+6. Select your Subscription, select App Service
+7. Select local folder to Deploy
+8. Now you should be able to deploy your React app to Azure App Service
+
+Thanks [Harshitha Veeramalla](https://stackoverflow.com/questions/69892360/how-to-deploy-react-to-azure-web-app-using-the-azure-app-service-plugin-in-visua#:~:text=Steps%20to%20deploy%20React%20to%20Azure%20Web%20App,deploy%20your%20react%20app%20to%20Azure%20App%20Service)
+
