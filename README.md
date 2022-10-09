@@ -1,4 +1,4 @@
-# Xiaoqi Knowledge Notes
+# Xiaoqi Knowledge Graph
 
 Thanks for [form](https://foambubble.github.io/foam/) as the tool to build this Knowledge Graph!
 
