@@ -1,12 +1,5 @@
 # Front End Development
 
-## Key Components
+## Key Components [[front-end_components]]
 
-- [[HTML]]
-- [[CSS]]
-- [[JavaScript]]
-- [[SVG]]
-
-## Frameworks
-
-- [[React.js]]
+## Frameworks [[front-end_frameworks]]
