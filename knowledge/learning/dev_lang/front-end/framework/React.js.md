@@ -1,5 +1,26 @@
 # React.js
 
+## React的特点
+
+1. 声明式的视图层
+2. 简单的更新流程
+3. 灵活的渲染实现
+4. 高效的DOM操作
+
+## Development Environment for React
+
+Basic Environment: 
+
+- Node.js: https://nodejs.org
+- NPM, also Yarn (https://yarnpkg.com)
+
+Supplement Environment:
+
+- Webpack: JavaScript module packaging tool
+- Babel: a JavaScript intepretor
+- ESLine: JavaScript code checking tool
+- Code Editor
+
 ## [Create a new React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
 ```bash
