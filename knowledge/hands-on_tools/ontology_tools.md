@@ -2,6 +2,8 @@
 
 ## About ontology
 
+- [gist from Semantic Arts](https://www.semanticarts.com/gist/), now in v11
+
 - [Introduction on Basice Formal Ontology](https://www.youtube.com/watch?v=p0buEjR3t8A), 1 hour video
 
 ## ontology Editor
