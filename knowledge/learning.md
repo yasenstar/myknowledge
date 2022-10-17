@@ -1,5 +1,5 @@
 # Self Learning
 
-- [[DevOps_AZ-400]]
+- [[Microsoft_Learning_Path]]
 - [[graph]]
 - [[development]]
