@@ -1,3 +1,4 @@
 # JavaScript
 
 - [[React.js]]
+- [[svelte]]

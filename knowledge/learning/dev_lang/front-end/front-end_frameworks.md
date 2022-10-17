@@ -4,3 +4,4 @@
 - [[AngularJS]]
 - [[Node.js]]
 - [[Vue.js]]
+- [[svelte]]
